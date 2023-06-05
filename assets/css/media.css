@@ -1,0 +1,742 @@
+@media (max-width: 576px){
+    .container{
+        width: 90%;
+    }
+    .options{
+        width: 40px;
+    }
+    .navbar-top .content-left{
+        display: none;
+    }
+    .navbar-top .content-right p{
+        display: none;
+    }
+    .navbar-top .content-right ul{
+        display: none;
+    }
+    /********/
+    .navbar{
+        overflow: hidden;
+    }
+    .navbar-left{
+        float: left;
+        width: 50%;
+    }
+    .navbar-left img{
+        width: 100%; 
+    }
+    .navbar-right{
+        float: right;
+        width: 50%;
+        padding-top: 30px;
+    }
+    .navbar-right .list{
+        display: none;
+    }
+    .navbar-right .menu{
+        font-size: 30px;
+        display: block;
+        float: right;
+        margin-bottom: 20px;
+        width: 20%;
+        height: 20px;
+        font-weight: 100;
+    }
+    .navbar-right .search{
+        font-size: 30px;
+        float: left;
+        width: 10%;
+        margin-left: 100px;
+    }
+    /************/
+    .header .header-content h1{
+        font-size: 35px;
+        text-align: center;
+        margin-right: 50px;
+    }
+    .header .header-content p{
+        font-size: 20px;
+        text-align: center;
+        margin-right: 30px;
+        margin-left: -30px;
+    }
+    .header .learn-btn1{
+        margin-right: 30px;
+    }
+    .header .contact-btn2{
+        margin-right: 30px;
+    }
+    /**************/
+    .about-content{
+        float: left;
+        width: 50%;
+        text-align: center;
+        margin-top: 100px;
+    }
+    .about-img{
+        float: none;
+        width: 100%;
+    }
+    .about-content{
+        float: none;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .about-content h2{
+        font-size: 35px;
+        margin-right: 150px;
+        width: 100%;
+        text-align: left;
+    }
+    .about-content p{
+        color: #686868;
+        line-height: 30px;
+        font-size: 18px;
+        width: 100%;
+        margin: auto;
+        text-align: left;
+    }
+    .about-content ul li{
+        width: 100%;
+    }
+    .about-content ul li i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+        float: left;
+    }
+    /**************/
+    .number-item{
+        float: none;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    /*************/
+    .choose-us .para{
+        font-size: 20px;
+    }
+    .choose-us .content .item{
+        float: none;
+        width: 100%;
+    }
+    /****************/
+    .Happy-Patients-content{
+        float: none;
+        width: 100%;
+        margin-top: 80px;
+    }
+    .Happy-Patients-content h2{
+        margin-right: 155px;
+    }
+    .Happy-Patients-content p{
+        width: 90%;
+    }
+    .Happy-Patients-img{
+        float: none;
+        width: 100%;
+    }
+    .Happy-Patients .container p{
+        margin-right: 20px;
+    }
+    /**************/
+    .Testimonials{
+        margin-top: 80px;
+        
+    }
+    .Testimonials .container{ 
+        width: 100%;
+        padding-bottom: 50px;
+    }   
+    .Testimonials .sub-test{
+        float: none;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    /**************/
+    .Feeling-convinced .container{
+        height: 205px;
+        width: 100%;
+    }
+    .Feeling-convinced h2{
+        font-size: 26px;
+    }
+    .Feeling-convinced p{
+        font-size: 20px;   
+    }
+    /************/
+    .footer .item{
+        float:none;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .footer .item h2{
+        font-size: 25px;
+    }
+    .footer .footer-second .copyright{
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
+    .footer .item p{
+        font-size: 18px;/***********/
+    }
+    .footer .item a{ 
+        font-size: 20px;
+    }
+    .footer .item .arr2{
+        font-size: 18px;
+    }
+    .footer .footer-second .icons{
+        text-align: center;
+        float: none;
+        width:100%;
+    }
+    .footer .footer-second p{
+        font-size: 17px;
+        width: 100%;
+        padding-left: 14px;
+        padding-bottom: 10px;
+    }
+    .footer .footer-second .icons i{
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+    }
+}
+
+/*******************************************/
+/*******************************************/
+/*******************************************/
+
+@media (min-width: 577px) and (max-width: 768px){
+    .container{
+        width: 90%;
+    }
+    .options{
+        width: 55px;
+        height: 120px;
+    }
+    .options li a{
+        font-size: 25px;
+    }
+    .options2{
+        width: 60px;
+        height: 60PX;
+    }
+    .options2 a{
+        font-size: 30px;
+        line-height: 55px;
+        margin-left: 15px;
+    }
+    .navbar-top .content-left{
+        display: none;
+    }
+    .navbar-top .content-right p{
+        display: none;
+    }
+    .navbar-top .content-right ul{
+        display: none;
+    }
+    /********/
+    .navbar{
+        overflow: hidden;
+    }
+    .navbar-left{
+        float: left;
+        width: 40%;
+        padding-left: 10px;
+    }
+    .navbar-left img{
+        width: 100%; 
+    }
+    .navbar-right{
+        float: right;
+        width: 50%;
+        padding-top: 30px;
+    }
+    .navbar-right .list{
+        display: none;
+    }
+    .navbar-right .menu{
+        font-size: 30px;
+        display: block;
+        float: right;
+        margin-bottom: 20px;
+        width: 20%;
+        height: 20px;
+        font-weight: 100;
+    }
+    .navbar-right .search{
+        font-size: 30px;
+        float: left;
+        width: 10%;
+        margin-left: 240px;
+    }
+    /************/
+
+    .header .header-content h1{
+        font-size: 60px;
+        text-align: center;
+        margin-right: 140px;
+    }
+    .header .header-content p{
+        font-size: 30px;
+        text-align: center;
+        margin-right: 118px;
+        margin-left: -30px;
+    }
+    .header .learn-btn1{
+        margin-right: 40px;
+    }
+    .header .contact-btn2{
+        margin-right: 120px;
+    }
+    /**************/
+
+    .about-content{
+        float: left;
+        width: 50%;
+        text-align: center;
+        margin-top: 100px;
+    }
+    .about-img{
+        float: none;
+        width: 100%;
+    }
+    .about-content{
+        float: none;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .about-content h2{
+        font-size: 50px;
+        margin-right: 150px;
+        width: 100%;
+        text-align: left;
+    }
+    .about-content p{
+        color: #686868;
+        line-height: 30px;
+        font-size: 22px;
+        width: 100%;
+        margin: auto;
+        text-align: left;
+    }
+    .about-content ul li{
+        width: 100%;
+    }
+    .about-content ul li i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+        float: left;
+    }
+    .about-content ul li span{
+        font-size: 22px;
+    }
+    /*************/
+    .choose-us h2{
+        font-size: 40px;
+    }
+    .choose-us .para{
+        font-size: 30px;
+    }
+    .choose-us .content .item{
+        float: none;
+        width: 100%;
+    }
+    .choose-us .item .desc h3{
+        font-size: 25px;
+    }
+    .choose-us .item .desc p{
+        font-size: 20px;
+    }
+    .choose-us .item .icons{
+        font-size: 31px;
+    }
+    /****************/
+    .Happy-Patients-content{
+        float: none;
+        width: 100%;
+        margin-top: 80px;
+    }
+    .Happy-Patients-content h2{
+        margin-right: 30px;
+        font-size: 40px;
+    }
+    .Happy-Patients-content p{
+        width: 90%;
+        font-size: 20px;
+    }
+    .Happy-Patients-content ul li i{
+        font-size: 20px;
+    }
+    .Happy-Patients-content ul li .span-happy{
+        font-size: 20px;
+    }
+    .Happy-Patients-img{
+        float: none;
+        width: 100%;
+    }
+    .Happy-Patients .container p{
+        margin-right: 20px;
+    }
+    /**************/
+    .Testimonials{
+        margin-top: 80px;  
+    }
+    .Testimonials .container{ 
+        width: 80%;
+        padding-bottom: 50px;
+    } 
+    .Testimonials .container h2{
+        font-size: 50px;
+    }  
+    .Testimonials .container p{
+        font-size: 25px;
+    }
+    .Testimonials .sub-test{
+        float: none;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    .Testimonials .sub-test .para1 p{
+        font-size: 20px;
+    }
+    .Testimonials .sub-test .para2 h3{
+        font-size: 18px;
+    }
+    .Testimonials .sub-test .para2 p{
+        font-size: 20px;
+    }
+    /**************/
+    .Feeling-convinced .container{
+        height: 205px;
+        width: 100%;
+    }
+    .Feeling-convinced h2{
+        font-size: 45px;
+    }
+    .Feeling-convinced p{
+        font-size: 30px;   
+    }
+    .Feeling-convinced a{
+        margin-top: 20px;
+    }
+    /************/
+    .footer .item{
+        float:none;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .footer .item h2{
+        font-size: 40px;
+    }
+    .footer .footer-second .copyright{
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
+    .footer .item p{
+        font-size: 25px;
+    }
+    .footer .item a{ 
+        font-size: 25px;
+    }
+    .footer .item .arr2{
+        font-size: 25px;
+    }
+    .footer .footer-second .icons{
+        text-align: center;
+        float: none;
+        width:100%;
+    }
+    .footer .footer-second p{
+        font-size: 20px;
+        width: 100%;
+        padding-left: 14px;
+        padding-bottom: 10px;
+    }
+    .footer .footer-second .icons i{
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+}
+
+
+/***************************************/
+/***************************************/
+/***************************************/
+
+@media (min-width: 769px) and (max-width: 992px){
+    .container{
+        width: 90%;
+    }
+    .container{
+        width: 90%;
+    }
+    .options{
+        width: 55px;
+        height: 120px;
+    }
+    .options li a{
+        font-size: 25px;
+    }
+    .options2{
+        width: 60px;
+        height: 60PX;
+    }
+    .options2 a{
+        font-size: 30px;
+        line-height: 55px;
+        margin-left: 15px;
+    }
+    .navbar-top .content-left{
+        display: none;
+    }
+    .navbar-top .content-right p{
+        display: none;
+    }
+    .navbar-top .content-right ul{
+        display: none;
+    }
+    /********/
+    .navbar{
+        overflow: hidden;
+    }
+    .navbar-left{
+        float: left;
+        width: 40%;
+        padding-left: 10px;
+    }
+    .navbar-left img{
+        width: 100%; 
+    }
+    .navbar-right{
+        float: right;
+        width: 50%;
+        padding-top: 40px;
+    }
+    .navbar-right .list{
+        display: none;
+    }
+    .navbar-right .menu{
+        font-size: 30px;
+        display: block;
+        float: right;
+        margin-bottom: 20px;
+        width: 20%;
+        height: 20px;
+        font-weight: 100;
+    }
+    .navbar-right .search{
+        font-size: 30px;
+        float: left;
+        width: 10%;
+        margin-left: 240px;
+    }
+    /************/
+
+    .header .header-content h1{
+        font-size: 60px;
+        text-align: center;
+        margin-right: 140px;
+    }
+    .header .header-content p{
+        font-size: 30px;
+        text-align: center;
+        margin-right: 118px;
+        margin-left: -30px;
+    }
+    .header .learn-btn1{
+        margin-right: 40px;
+    }
+    .header .contact-btn2{
+        margin-right: 120px;
+    }
+    /**************/
+
+    .about-content{
+        float: left;
+        width: 50%;
+        text-align: center;
+        margin-top: 100px;
+    }
+    .about-img{
+        float: none;
+        width: 100%;
+    }
+    .about-content{
+        float: none;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .about-content h2{
+        font-size: 50px;
+        margin-right: 150px;
+        width: 100%;
+        text-align: left;
+    }
+    .about-content p{
+        color: #686868;
+        line-height: 30px;
+        font-size: 22px;
+        width: 100%;
+        margin: auto;
+        text-align: left;
+    }
+    .about-content ul li{
+        width: 100%;
+    }
+    .about-content ul li i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+        float: left;
+    }
+    .about-content ul li span{
+        font-size: 22px;
+    }
+    /*************/
+    .choose-us h2{
+        font-size: 40px;
+    }
+    .choose-us .para{
+        font-size: 30px;
+    }
+    .choose-us .content .item{
+        float: none;
+        width: 100%;
+    }
+    .choose-us .item .desc h3{
+        font-size: 25px;
+    }
+    .choose-us .item .desc p{
+        font-size: 20px;
+    }
+    .choose-us .item .icons{
+        font-size: 31px;
+    }
+    /****************/
+    .Happy-Patients-content{
+        float: none;
+        width: 100%;
+        margin-top: 80px;
+    }
+    .Happy-Patients-content h2{
+        margin-right: 30px;
+        font-size: 40px;
+    }
+    .Happy-Patients-content p{
+        width: 90%;
+        font-size: 20px;
+    }
+    .Happy-Patients-content ul li i{
+        font-size: 20px;
+    }
+    .Happy-Patients-content ul li .span-happy{
+        font-size: 20px;
+    }
+    .Happy-Patients-img{
+        float: none;
+        width: 100%;
+    }
+    .Happy-Patients .container p{
+        margin-right: 20px;
+    }
+    /**************/
+    .Testimonials{
+        margin-top: 80px;  
+    }
+    .Testimonials .container{ 
+        width: 80%;
+        padding-bottom: 50px;
+    } 
+    .Testimonials .container h2{
+        font-size: 50px;
+    }  
+    .Testimonials .container p{
+        font-size: 25px;
+    }
+    .Testimonials .sub-test{
+        float: none;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 40px;
+    }
+    .Testimonials .sub-test .para1 p{
+        font-size: 20px;
+    }
+    .Testimonials .sub-test .para2 h3{
+        font-size: 18px;
+    }
+    .Testimonials .sub-test .para2 p{
+        font-size: 20px;
+    }
+    /**************/
+    .Feeling-convinced .container{
+        height: 205px;
+        width: 100%;
+    }
+    .Feeling-convinced h2{
+        font-size: 45px;
+    }
+    .Feeling-convinced p{
+        font-size: 30px;   
+    }
+    .Feeling-convinced a{
+        margin-top: 20px;
+    }
+    /************/
+    .footer .item{
+        float:none;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .footer .item h2{
+        font-size: 40px;
+    }
+    .footer .footer-second .copyright{
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
+    .footer .item p{
+        font-size: 25px;
+    }
+    .footer .item a{ 
+        font-size: 25px;
+    }
+    .footer .item .arr2{
+        font-size: 25px;
+    }
+    .footer .footer-second .icons{
+        text-align: center;
+        float: none;
+        width:100%;
+    }
+    .footer .footer-second p{
+        font-size: 20px;
+        width: 100%;
+        padding-left: 14px;
+        padding-bottom: 10px;
+    }
+    .footer .footer-second .icons i{
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+
+
+
+}
+
+/*************************************************************************/
+/*************************************************************************/
+/*************************************************************************/
